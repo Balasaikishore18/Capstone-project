@@ -1,0 +1,8 @@
+# Libraries
+pip install pyspellchecker
+pip install scattertext
+pip install nltk
+pip install -U kaleido
+pip install textblob
+pip install wordcloud
+pip install plotly
